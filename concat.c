@@ -7,7 +7,7 @@ int main()
 	scanf("%s",&s1);
 	printf("enter the string 2:");
 	scanf("%s",&s2);
-	printf("the concat string is:",s1,s2);
+	printf("the concat string is:%s%s",s1,s2);
 	return 0
 }
 	
